@@ -10,7 +10,7 @@ This project uses the dataset from Kaggle: Zomato_EDA (https://www.kaggle.com/da
 - Jupyer Notebook - Python
 - MySQL Database
 
-### Dashboard
+### Database
 [View Database](https://github.com/BOAMAH-99/Restaurant_review_analysis/tree/main/Database)
 
 ### Tools and Skills Used
