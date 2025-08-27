@@ -1,4 +1,4 @@
-# Restaurant_review_dataset_cleaning
+# Restaurant_review_dataset_cleaning_and_database_integration
 This project involved comprehensive preprocessing of a restaurant review dataset characterized by missing values, inconsistent data types, duplicates, and multi-valued fields. The raw data was systematically cleaned through data imputation, normalization, deduplication, and parsing techniques to ensure structural consistency and data integrity. After rigorous validation, the processed dataset was loaded into a MySQL relational database, establishing a robust infrastructure for efficient querying and advanced analytical workflows. This foundation will enable accurate in-depth data analysis, support actionable, data-driven insights to enhance decision-making within the restaurant industry.
 
 ## Objective:
